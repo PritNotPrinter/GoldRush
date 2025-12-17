@@ -37,7 +37,7 @@ public class LoginPage extends JPanel {
         gbc.fill = GridBagConstraints.HORIZONTAL;
         
         // Title label with better styling
-        JLabel titleLabel = new JLabel("Coin Collector Game");
+        JLabel titleLabel = new JLabel("Gold Rush");
         titleLabel.setFont(new Font("Arial", Font.BOLD, 28));
         titleLabel.setForeground(Color.BLACK);
         gbc.gridx = 0;

@@ -4,7 +4,7 @@
 
 ## Project Introduction / Overview
 
-**Gold Rush** is an engaging, fast-paced arcade-style game built with Java Swing where players collect coins to accumulate points within a 60-second time limit. This project demonstrates essential computer science concepts including collision detection, GUI design, object-oriented programming principles, and file I/O for persistent data storage.
+**Gold Rush** is an arcade-style JSwing game where players collect coins to accumulate points within 60 seconds. This project demonstrates computer science concepts like collision detection, GUI design, object-oriented programming, and file I/O for persistent data storage.
 
 ## What the Project Does
 
@@ -37,7 +37,7 @@ Gold Rush is a single-player coin collection game with the following mechanics:
    - Create a new account with a username and password (passwords are case-sensitive)
    - Log in with your credentials
    - Click "Start Game" to begin playing
-   - Run `CoinCollectorGame.java`
+   - Run `GoldRush.java`
 
 ## Project Goals and Purpose
 ISC4UR Unit 4 GUI Application Assignment
@@ -61,7 +61,7 @@ ISC4UR Unit 4 GUI Application Assignment
 
 ## File Breakdown
 
-#### **CoinCollectorGame.java** (Main)
+#### **GoldRush.java** (Main)
   Initializes the main game window
   Handles the transition from login page to game screen
 

@@ -475,6 +475,7 @@ public class GamePanel extends JPanel {
         
         if (result == 0) {  // Play Again
             replayGame();
+            startGame();
         } else if (result == 1) {  // Logout
             logout();
         }
